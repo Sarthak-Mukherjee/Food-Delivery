@@ -1,7 +1,7 @@
 # Food Delivery System
 
 ## Project Overview
-The **Food Delivery System** is a web-based application that allows users to book and manage hotel rooms. It provides an **Admin Panel** for managing users and room bookings and a **User Dashboard** for viewing and booking available rooms.
+The **Food Delivery System** is a web-based application that allows users to book and manage different foods. It provides an **Admin Panel** for managing users and food bookings and a **User Dashboard** for viewing and booking available foods.
 
 ## Prerequisites
 Before running this project, ensure you have the following installed on your system:
@@ -17,7 +17,7 @@ Before running this project, ensure you have the following installed on your sys
 **Write in Terminal or cmd after opening cmd inside a folder**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/hotel-management.git
+   git clone https://github.com/your-repo/food-delivery.git
    cd backend
    ```
 Create a Wrokspace in Eclipse for this project folder
@@ -33,7 +33,7 @@ Import just the project in the backend folder
    ```
 
 3. **Run the Spring Boot backend**
-open HotelManagementApiApplication.java file and run it as java application
+open FoodDeliveryApiApplication.java file and run it as java application
 
    or 
    
@@ -77,7 +77,7 @@ To test the API, use **Postman**:
 ## Features
 - **User Login & Registration** (Admin & User roles)
 - **Admin Panel:** View and manage booked & allotted rooms
-- **User Dashboard:** View available rooms, book, and cancel bookings
+- **User Dashboard:** View available foods, book, and cancel orders.
 - **Secure Authentication & Authorization**
 - **MySQL Database Integration**
 
