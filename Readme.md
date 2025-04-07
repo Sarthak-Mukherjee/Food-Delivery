@@ -92,11 +92,4 @@ To test the API, use **Postman**:
 - **Tailwind CSS**
 - **React Router**
 
-## Contributing
-Feel free to contribute! Fork the repo, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
-
-
-[Developed By](https://github.com/SkAfzal-04)
